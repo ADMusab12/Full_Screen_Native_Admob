@@ -8,21 +8,23 @@ Welcome to the **Full-Screen Native AdMob Integration** project! This Android ap
 - 📱 **Full-Screen Ad Support**: Native ads seamlessly fill the screen with custom styling.
 - 🔧 **Robust Error Handling**: Includes callbacks for successful and failed ad loads.
 
-
-## Screenshots
-
-| **Ad 1 Loaded**                                  | **Ad 2 Loaded**                                  |
-|--------------------------------------------------|--------------------------------------------------|
-| ![Native Ad 1](![1](https://github.com/user-attachments/assets/19391efa-d5f2-4087-af50-a4977bbda015) | 
-  ![Native Ad 2]([https://via.placeholder.com/400x800?text=Ad+2+Loaded](https://github.com/user-attachments/assets/24513333-56a1-4a82-8121-58a373cad206)) |
-
----
-
 ## 🛠️ Technologies Used
 - **Kotlin**: 100% Kotlin-based implementation.
 - **AdMob SDK**: Google's AdMob library for monetization.
 - **View Binding**: Simplifies view initialization.
 - **ShimmerLayout**: Adds an attractive shimmer animation for loading states.
+
+---
+
+## Screenshots
+
+| **Ad 1 Loaded**                                  | **Ad 2 Loaded**                                  |
+|--------------------------------------------------|--------------------------------------------------|
+| ![Native Ad 1](![1](https://github.com/user-attachments/assets/1252dfe0-33b1-4d9b-8b46-303bbafccf71)
+) | ![Native Ad 2](![2](https://github.com/user-attachments/assets/0c4d7030-a763-45cc-90ee-1b6d8159edc7)
+) |
+
+*The first and second native ads with headline, media, and call-to-action buttons.*
 
 ---
 
