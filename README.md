@@ -18,11 +18,11 @@ Welcome to the **Full-Screen Native AdMob Integration** project! This Android ap
 
 ## Screenshots
 
-### Ad 1 Loaded
-![Native Ad 1](![1](https://github.com/user-attachments/assets/d806ae3b-9c96-4b16-a3a2-fd9f7dce21c4))  
-
-### Ad 2 Loaded
-![Native Ad 2](![2](https://github.com/user-attachments/assets/d403f4d1-d60a-4b06-ab4a-3812ecb3f8ef))  
+| **Ad 1 Loaded**                                  | **Ad 2 Loaded**                                  |
+|--------------------------------------------------|--------------------------------------------------|
+| ![Native Ad 1](![1](https://github.com/user-attachments/assets/2ca33bcd-4e60-4428-b985-1b3f66850052)
+) | ![Native Ad 2](![2](https://github.com/user-attachments/assets/a83e4d6c-ed81-4060-ab26-8ce05689b84b)
+) 
 
 ---
 
