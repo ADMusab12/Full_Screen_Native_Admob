@@ -8,14 +8,12 @@ Welcome to the **Full-Screen Native AdMob Integration** project! This Android ap
 - 📱 **Full-Screen Ad Support**: Native ads seamlessly fill the screen with custom styling.
 - 🔧 **Robust Error Handling**: Includes callbacks for successful and failed ad loads.
 
----
 
-## 🖼️ Screenshots
-| Shimmer Loading | Loaded Ad |
-|------------------|-----------|
-| ![Shimmer Loading](![1](https://github.com/user-attachments/assets/19391efa-d5f2-4087-af50-a4977bbda015)
-) | ![Loaded Ad](![2](https://github.com/user-attachments/assets/24513333-56a1-4a82-8121-58a373cad206)
-) |
+## Screenshots
+
+| **Ad 1 Loaded**                                  | **Ad 2 Loaded**                                  |
+|--------------------------------------------------|--------------------------------------------------|
+| ![Native Ad 1](![1](https://github.com/user-attachments/assets/19391efa-d5f2-4087-af50-a4977bbda015) | ![Native Ad 2]([https://via.placeholder.com/400x800?text=Ad+2+Loaded](https://github.com/user-attachments/assets/24513333-56a1-4a82-8121-58a373cad206)) |
 
 ---
 
